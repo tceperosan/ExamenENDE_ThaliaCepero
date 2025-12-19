@@ -8,7 +8,6 @@ public class Vehiculo {
 	private double prestado;
 	
 	public Vehiculo(String matricula, String marca, String modelo, double prestado) {
-		super();
 		this.matricula = matricula;
 		this.marca = marca;
 		this.modelo = modelo;
